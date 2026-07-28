@@ -1,0 +1,43 @@
+# Urban Heat Mitigation Project — Delhi NCR
+# Install all: pip install -r requirements.txt
+
+# Google Earth Engine
+earthengine-api
+geemap
+
+# Geospatial
+rasterio
+geopandas
+pyproj
+shapely
+xarray
+netCDF4
+
+# ERA5 / Copernicus
+cdsapi
+
+# Urban morphology
+osmnx
+
+# Data & ML
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+shap
+torch
+scipy
+
+# Optimization
+deap
+
+# Visualization
+matplotlib
+folium
+plotly
+tqdm
+requests
+
+# Dashboard (Phase 11)
+streamlit
